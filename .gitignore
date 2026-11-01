@@ -1,0 +1,21 @@
+node_modules/
+dist/
+.git/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+coverage/
+
+# Local notes and nested project
+InnerPages-current.txt
+parent-portal-context.txt
+rahi-global-school/
+update-premium-about-page.ps1
+
+# Local backup files
+*.backup
+*.backup-*
+*.before-pdf.jsx
