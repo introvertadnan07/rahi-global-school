@@ -25,3 +25,5 @@ update-premium-about-page.ps1
 *.backup.*
 *.backup-*
 *.before-pdf.jsx
+
+*.before-premium.jsx
